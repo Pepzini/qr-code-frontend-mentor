@@ -42,6 +42,14 @@ body {
     width: 100%;
 }
 
+.card-text .mainText{
+    font-weight:700;
+}
+
+.card-text .primaryText{
+    font-weight: 500;
+}
+
 .attribution {
     font-size: 11px;
     position: absolute;
